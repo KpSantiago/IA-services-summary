@@ -85,13 +85,13 @@ As buscas cognitivas aliadas ao enriquecimento de IA potencializam a recuperaç�
 - Detectar correlações e padrões escondidos traz insights detalhados e úteis.
 
 ### **IA Generativa Responsável**
-A inteligência artificial generativa traz a capacidade de criar conteúdo original, como textos, imagens e até mesmo composições musicais. Contudo, o desenvolvimento e uso dessa tecnologia devem seguir princípios éticos rigorosos. 
+A inteligência artificial generativa traz a capacidade de criar conteúdo original, como textos, imagens e até mesmo composições musicais. Contudo, o desenvolvimento e uso dessa tecnologia devem seguir princípios éticos rigorosos.
 
 - **Transparência e Ética:** É essencial garantir que os modelos de IA sejam projetados para respeitar valores éticos, culturais e sociais, promovendo confiança em suas aplicações.
 - **Segurança e Privacidade:** Proteção de dados e mecanismos que previnam usos indevidos da tecnologia são fundamentais.
 - **Inclusão e Imparcialidade:** A IA deve ser acessível a todos, sem reforçar preconceitos ou estereótipos, promovendo igualdade nas suas aplicações.
-  
-A Microsoft é pioneira em adotar uma abordagem responsável no uso de IA, estabelecendo diretrizes claras para garantir que as soluções atendam às expectativas de segurança, ética e inclusão.
+
+- **Prompts aplicados** : "Crie um resumo detalhado sobre as melhores práticas de ética na IA generativa"
 
 ---
 
@@ -102,6 +102,7 @@ O Microsoft Copilot é um assistente inteligente desenvolvido para apoiar usuár
 - **Integração com Ferramentas:** Funciona com aplicativos como Word, Excel, PowerPoint e Teams, potencializando a eficiência e colaboração.
 - **Interação Humana:** Busca tornar as interações mais naturais, usando um tom amigável e adaptável às necessidades do usuário.
 
+Prompts úteis para usar com o Copilot incluem solicitações como "Organize dados sobre IA generativa responsável e sugira maneiras de aplicá-los em uma estratégia corporativa."
 ---
 
 ### **Possibilidades com Microsoft Learning**
@@ -110,3 +111,5 @@ O Microsoft Learning é uma plataforma voltada para o desenvolvimento de habilid
 - **Certificações Profissionais:** Disponibiliza treinamentos que capacitam usuários a obter certificações amplamente reconhecidas, como aquelas relacionadas ao Azure ou ao Microsoft 365.
 - **Recursos Educacionais:** Oferece tutoriais práticos, guias e materiais que atendem diferentes níveis de conhecimento, desde iniciantes até especialistas.
 - **Aprendizado Personalizado:** Permite que os usuários aprendam no seu próprio ritmo, com materiais adaptáveis e focados em demandas específicas.
+
+**Prompts aplicados** ao Microsoft Learning incluem "Configure um índice que categorize documentos com base em temas para realizar buscas com palavras-chave contextuais." Entre os aprendizados adquiridos, está a percepção de que o aprendizado contínuo é essencial para acompanhar avanços tecnológicos e desenvolver novas habilidades.
