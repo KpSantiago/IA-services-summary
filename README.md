@@ -8,8 +8,6 @@ O Azure fornece ferramentas avançadas para análise de texto por meio do **Azur
 - **Reconhecimento de Entidades Nomeadas (NER):** Localiza nomes próprios como pessoas, locais, empresas, datas, e outros elementos específicos no texto. É ideal para categorizar informações complexas.
 - **Análise Semântica:** Vai além das palavras e compreende o contexto e os significados mais profundos, facilitando interpretações mais precisas.
 
-Além disso, com o uso da **Azure OpenAI Service**, é possível implementar sistemas de **resposta de perguntas**. Esses sistemas utilizam modelos avançados, como o GPT, para identificar perguntas e buscar respostas específicas diretamente do texto relevante. Isso transforma a interação com dados em algo prático e rápido.
-
 ---
 
 ### **Serviço de Bot no Azure**
